@@ -16,6 +16,25 @@ header{
 header img{
     width:  20%;
 
-
 }
 
+main{
+    width: 80%;
+    margin: auto;
+}
+
+main h1{
+    text-align: left;
+}
+
+main strong{
+    color: rgb(78, 160, 255);
+}
+
+.tim1{
+    width: 400px;
+}
+
+.tim2{
+    width: 343px;
+}
