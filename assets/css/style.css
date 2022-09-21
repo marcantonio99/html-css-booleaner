@@ -47,3 +47,48 @@ main h1{
 .photo{
     font-size: 13px;
 }
+
+.text{
+    margin-top: 20px;
+}
+
+.ul{
+    margin: 20px 20px;
+}
+
+thead{
+    background-color: #20a9e5;
+    color: white;
+}
+
+.column{
+    width: 20%;
+}
+
+table{
+    border-spacing: 0;
+    margin-top: 20px;
+}
+
+h3{
+    color: #808080;
+    margin-top: 30%;
+}
+
+.foto1{
+    background-image: url('../img/monitor.jpg');
+    background-size: contain;
+    width: 270px;
+    height: 200px;
+    margin-top: 15px;
+    padding-bottom: 10px;
+}
+
+.foto2{
+    background-image: url('../img/graph.jpg');
+    background-size: contain;
+    width: 270px;
+    height: 200px;
+    margin-top: 15px;
+    padding-bottom: 10px;
+}
